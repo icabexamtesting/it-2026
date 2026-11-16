@@ -1,0 +1,18 @@
+{
+  "name": "Information Technology 2026 — ICAB-style MCQ Practice",
+  "short_name": "IT MCQ 2026",
+  "description": "4,000 chapter-wise scenario MCQs, 80 timed model tests, explanations and untimed practice.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#102747",
+  "background_color": "#f3f6fa",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
